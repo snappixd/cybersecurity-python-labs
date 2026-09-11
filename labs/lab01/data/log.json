@@ -1,0 +1,34 @@
+[
+  {
+    "event": "login",
+    "user": "admin_ivanenko",
+    "result": "success",
+    "timestamp": "2026-09-11 10:55:28",
+    "args": [],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "admin_ivanenko",
+    "result": "failure",
+    "timestamp": "2026-09-11 10:55:28",
+    "args": [],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "nonexistent_user",
+    "result": "failure",
+    "timestamp": "2026-09-11 10:55:28",
+    "args": [],
+    "kwargs": {}
+  },
+  {
+    "event": "login",
+    "user": "",
+    "result": "failure",
+    "timestamp": "2026-09-11 10:55:28",
+    "args": [],
+    "kwargs": {}
+  }
+]
